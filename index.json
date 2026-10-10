@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiomonitor",
+  "versions": [
+    {
+      "commit": "73de9b00b2b7671237120328b45c39374b0810d0",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:06:01.143754+00:00"
+    }
+  ]
+}
